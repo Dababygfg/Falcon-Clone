@@ -1,13 +1,13 @@
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTM0OTkwMDQ3ODE5MTc2NzY1Mw.GlI86Z.qn5W2PKsKw2vqJ9g25_nJK8cd78L0Z1EworaQM",
   MONGO_CONNECTION: "",
-  ERROR_LOGS: "",
+  ERROR_LOGS: "1336155920912089095",
   BOT_SECRET: "",
   SPOTIFY_CLIENT_ID: "e6f84fbec2b44a77bf35a20c5ffa54b8",
   SPOTIFY_CLIENT_SECRET: "498f461b962443cfaf9539c610e2ea81",
   WEATHERSTACK_KEY: "3b7f1925de1b9d9a1dc2c13d1ec07d76",
   STRANGE_API_KEY: "NjNhMWJkYjQwYTBiY2Y5OTUxMDg2NjJh.sJ5stiu6TfhmvuXNfvnNOpqKDnuv5TukVQyoyWF20",
-  OWNER_IDS: ["1092374628556615690"], // Bot owner ID's
+  OWNER_IDS: ["876954401397411921"], // Bot owner ID's
   SUPPORT_SERVER: "https://discord.gg/snoww", // Your bot support server
   PREFIX_COMMANDS: {
     ENABLED: true, // Enable/Disable prefix commands
@@ -17,7 +17,7 @@ module.exports = {
     SLASH: true, // Should the interactions be enabled
     CONTEXT: true, // Should contexts be enabled
     GLOBAL: false, // Should the interactions be registered globally
-    TEST_GUILD_ID: "1280924204459364435", // Guild ID where the interactions should be registered. [** Test your commands here first **]
+    TEST_GUILD_ID: "1336155919913975808", // Guild ID where the interactions should be registered. [** Test your commands here first **]
   },
   EMBED_COLORS: {
     BOT_EMBED: "#068ADD",
